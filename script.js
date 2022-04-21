@@ -31,6 +31,14 @@ const quizDB = [
     d: "Hyper text markup language",
     ans: "ans3",
   },
+  {
+    question: "Q5: Dear Tanveer , did you found JS intresting ?",
+    b: "Sure",
+    c: "Ahmm its amazing",
+    a: "Absolutely not",
+    d: "Sar ka dard ha faizi ke tarha",
+    ans: "ans4",
+  },
 ];
 
 const question = document.querySelector(".question");
